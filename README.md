@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=01sapankumar&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/01sapankumar?style=for-the-badge&color=EC4899" />
-<img src="https://img.shields.io/github/stars/01sapankumar?style=for-the-badge&color=7C3AED" />
+<img src="https://komarev.com/ghpvc/?username=Ksapan&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Ksapan?style=for-the-badge&color=EC4899&label=Followers" />
+<img src="https://img.shields.io/github/stars/Ksapan?style=for-the-badge&color=7C3AED&label=Stars" />
 
 </div>
 
@@ -176,13 +176,13 @@ Focus Areas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=01sapankumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01sapankumar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=01sapankumar&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Ksapan&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01sapankumar&theme=tokyonight" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksapan&theme=tokyonight" />
 
 </div>
 
@@ -241,7 +241,7 @@ const sapan = {
 <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/01sapankumar">
+<a href="https://github.com/Ksapan">
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
