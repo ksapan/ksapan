@@ -1,17 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2070&auto=format&fit=crop" />
-
-# 👋 Sapan Kumar
-
-### Full Stack Engineer • AI Automation Engineer • SaaS Builder
-
-<img src="https://komarev.com/ghpvc/?username=Ksapan&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:1f1f1f,50:7C3AED,75:EC4899,100:0f0f0f&height=260&section=header&text=Sapan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Automation%20Engineer%20•%20SaaS%20Builder&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
