@@ -1,4 +1,4 @@
-# <img src="[https://readme-typing-svg.demolab.com](https://cdn-icons-png.flaticon.com/128/4926/4926624.png)?font=Space+Grotesk&weight=700&size=35&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Sapan+Kumar;Full+Stack+Developer+(SDE-1);AI+Automation+Engineer;Building+Scalable+SaaS+%26+AI+Systems;MERN+Stack+•+DevOps+•+Cloud+•+AI+Agents" alt="Typing SVG" />
+
 
 <div align="center">
 
