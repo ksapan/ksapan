@@ -1,4 +1,14 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Sapan+Kumar;Full+Stack+Developer+(SDE-1);AI+Automation+Engineer;Building+Scalable+SaaS+%26+AI+Systems;MERN+Stack+•+DevOps+•+Cloud+•+AI+Agents" alt="Typing SVG" />
+<div align="center">
+
+<img width="100%" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2070&auto=format&fit=crop" />
+
+# 👋 Sapan Kumar
+
+### Full Stack Engineer • AI Automation Engineer • SaaS Builder
+
+<img src="https://komarev.com/ghpvc/?username=Ksapan&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+
+</div>
 
 <div align="center">
 
