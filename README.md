@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,25:1E1B4B,50:7C3AED,75:EC4899,100:111827&height=280&section=header&text=Sapan%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Automation%20Engineer%20•%20SaaS%20Builder&descAlignY=58&descSize=18" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:111827,50:6D28D9,75:A855F7,100:EC4899&text=Sapan%20Kumar&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20|%20AI%20SaaS%20Engineer%20|%20Automation%20Builder&descAlignY=60"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ksapan&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Ksapan?style=for-the-badge&color=EC4899&label=Followers" />
-<img src="https://img.shields.io/github/stars/Ksapan?style=for-the-badge&color=7C3AED&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=Ksapan&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
 
-<br/>
-<br/>
+<img src="https://img.shields.io/github/followers/Ksapan?style=for-the-badge&color=A855F7"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+Automation+Engineer;Backend+%26+Cloud+Developer;Scalable+SaaS+Platform+Builder" />
+<img src="https://img.shields.io/github/stars/Ksapan?style=for-the-badge&color=EC4899"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+SaaS+Engineer;Automation+Builder;Backend+Architect;Cloud+Engineer"/>
 
 </div>
 
@@ -21,116 +22,139 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="60%">
+### Full Stack Engineer • AI SaaS Engineer • Automation Builder
 
-```yaml
-Name: Sapan Kumar
-Role: Full Stack Engineer
-Specialization: AI Automation + SaaS Engineering
-Location: India
-
-Core Expertise:
-  - MERN Stack Development
-  - AI Agent Systems
-  - Backend Architecture
-  - DevOps & Cloud
-  - Scalable SaaS Platforms
-  - Performance Optimization
-```
-
-### 💡 Engineering Focus
-
-- ⚡ Building production-grade SaaS systems
-- 🤖 Developing AI automation platforms
-- ☁️ Deploying scalable cloud infrastructure
-- 🔥 Designing REST APIs & microservices
-- 🧠 Exploring AI Agents, RAG & Vector DBs
-- 🚀 Optimizing system performance & scalability
-
-</td>
-
-<td width="40%">
-
-<img 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="100%"
-style="border-radius:16px;" />
-
-</td>
-</tr>
-</table>
+Building scalable SaaS platforms, intelligent automation systems, AI-powered products, and cloud-native applications.
 
 </div>
 
----
-
-# 🧠 Tech Arsenal
-
-<div align="center">
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,js,ts" />
-
 <br/>
-
-## Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,fastapi" />
-
-<br/>
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-
-<br/>
-
-## Cloud • DevOps • Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,vercel" />
-
-<br/>
-
-## AI • Automation
-
-<img src="https://img.shields.io/badge/OpenAI-GPT4-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-AI-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-AI_Agents-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Systems-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pinecone-Vector_DB-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-Automation-111827?style=for-the-badge" />
-
-</div>
-
----
-
-# 🏗️ Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
+### 💼 Current Role
+
+Full Stack Engineer @ Elite Workforce Inc
+
+### ⚡ Specialization
+
+- AI SaaS Platforms
+- Backend Architecture
+- Full Stack Development
+- Cloud Infrastructure
+- Automation Systems
+
+</td>
+
+<td width="50%">
+
+### 🔥 Currently Working On
+
+- AI Agents
+- MCP Integrations
+- RAG Systems
+- SaaS Platforms
+- Workflow Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Technology Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,js,ts"/>
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,fastapi"/>
+
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis"/>
+
+<br/><br/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,vercel"/>
+
+<br/><br/>
+
+### AI & Automation
+
+<img src="https://img.shields.io/badge/OpenAI-GPT4-black?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/LangChain-AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-Systems-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-VectorDB-EC4899?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-Automation-black?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 Professional Snapshot
+
+<div align="center">
+
+| 🚀 Repositories | 💻 Focus |
+|---------------|---------|
+| 43+ Projects | Full Stack Development |
+
+| 🤖 AI Stack | ☁️ Cloud |
+|------------|----------|
+| OpenAI • RAG • MCP | AWS • Docker |
+
+| ⚡ Backend | 🎯 Mission |
+|-----------|-----------|
+| Node.js • Express.js | Building AI SaaS Platforms |
+
+</div>
+
+---
+
+# 🏗 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🤖 AutomationOwl
 
-### AI-Powered SaaS Automation Platform
+AI Automation SaaS Platform
 
-✨ Features:
+### Highlights
 
-- AI automation workflows
-- Multi-tenant architecture
-- Webhook integrations
-- Event-driven systems
-- REST API infrastructure
-- Scalable backend architecture
+- AI Workflows
+- RAG Integrations
+- Multi Tenant Architecture
+- Social Automation
+- Email Automation
+- Webhook Systems
 
 ### Stack
 
-`React.js` `Node.js` `MongoDB` `AI APIs` `Automation`
+`React`
+`Node.js`
+`MongoDB`
+`OpenAI`
+`AWS`
 
 </td>
 
@@ -138,84 +162,70 @@ style="border-radius:16px;" />
 
 ## 🚗 AI Auto Parts
 
-### AI Search & Product Discovery Platform
+AI Product Discovery Platform
 
-✨ Features:
+### Highlights
 
-- Natural language search
-- OpenAI integrations
-- Admin dashboards
-- Structured data extraction
-- Backend API optimization
+- AI Search
+- OpenAI Integration
+- Product Intelligence
+- Admin Dashboard
+- Data Extraction
 
 ### Stack
 
-`Next.js` `Node.js` `MongoDB` `OpenAI` `REST APIs`
+`Next.js`
+`Node.js`
+`MongoDB`
+`OpenAI`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 🎤 AI Interview Prep App
+## 🎤 AI Interview Platform
 
-### Real-Time AI Interview System
+### Highlights
 
-✨ Features:
-
-- Voice-based interview sessions
-- AI evaluation system
-- Performance tracking
-- Real-time feedback
-- Session analytics
+- Voice Interviews
+- AI Evaluation
+- Real Time Feedback
+- Performance Analytics
 
 ### Stack
 
-`Next.js` `Firebase` `AI APIs` `Voice AI`
+`Next.js`
+`Firebase`
+`OpenAI`
+`Vapi`
 
 </td>
 
 <td width="50%">
 
-## 🧾 Payroll Management System
+## 🧾 Payroll ERP System
 
-### Enterprise Payroll & Attendance Platform
+### Highlights
 
-✨ Features:
-
-- Multi-tenant system
-- Secure APIs
-- Payroll automation
-- PDF generation
-- Reporting dashboards
+- Payroll Automation
+- Attendance Tracking
+- Salary Processing
+- Reporting Dashboard
 
 ### Stack
 
-`React.js` `Node.js` `MySQL` `JWT`
+`React`
+`Node.js`
+`MongoDB`
 
 </td>
+
 </tr>
 </table>
-
-</div>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-
-| Metric | Value |
-|---------|---------|
-| 🚀 Repositories | 43+ |
-| 💻 Focus | Full Stack Development |
-| 🤖 AI Engineering | OpenAI • RAG • MCP |
-| ☁️ Cloud | AWS • Docker |
-| 🔥 Backend | Node.js • Express |
-| 🧠 Current Mission | Building AI SaaS Platforms |
-
-</div>
 
 ---
 
@@ -223,82 +233,36 @@ style="border-radius:16px;" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,docker,aws,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,docker,aws,linux,nginx"/>
 
-<br/>
+</div>
+
 <br/>
 
 | Domain | Expertise |
-|:---|:---|
-| 🚀 Scalable Architecture | Multi-Tenant SaaS • Event Driven Systems |
-| ⚡ Backend Engineering | Node.js • Express.js • REST APIs |
-| 🧠 AI Systems | OpenAI • Gemini • LangChain • RAG |
-| 🗄️ Databases | MongoDB • PostgreSQL • Redis |
-| 🔐 Authentication | JWT • RBAC • OAuth |
-| ☁️ DevOps & Cloud | Docker • AWS • CI/CD • Nginx |
-| 📈 Optimization | Caching • Query Optimization |
-
-</div>
+|---------|------------|
+| 🚀 Architecture | Multi-Tenant SaaS • Event Driven Systems |
+| ⚡ Backend | Node.js • Express.js • REST APIs |
+| 🧠 AI Systems | OpenAI • LangChain • RAG • MCP |
+| 🗄 Databases | MongoDB • PostgreSQL • Redis |
+| 🔐 Security | JWT • RBAC • OAuth |
+| ☁️ Cloud | Docker • AWS • CI/CD |
+| 📈 Performance | Caching • Query Optimization |
 
 ---
 
-# 🏆 Engineering Philosophy
+# 🧠 Engineering Focus
 
 <div align="center">
 
-### 💭 "I build scalable software systems powered by intelligent automation."
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+Automation+Builder;Scalable+SaaS+Architect;Backend+%26+Cloud+Engineer" />
+| 🚀 Building | 🤖 AI | ☁️ Cloud |
+|------------|--------|---------|
+| SaaS Platforms | OpenAI | AWS |
+| Automation Systems | LangChain | Docker |
+| Backend APIs | RAG | Linux |
+| Multi Tenant Apps | MCP | Nginx |
 
 </div>
-
-<br/>
-
-```javascript
-const engineer = {
-  languages: ["JavaScript", "TypeScript", "Python", "PHP"],
-  
-  frontend: [
-    "React.js",
-    "Next.js",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "Microservices"
-  ],
-
-  databases: [
-    "MongoDB",
-    "PostgreSQL",
-    "MySQL",
-    "Redis"
-  ],
-
-  devops: [
-    "Docker",
-    "AWS",
-    "Linux",
-    "CI/CD",
-    "Nginx"
-  ],
-
-  aiEngineering: [
-    "OpenAI",
-    "LangChain",
-    "RAG Systems",
-    "AI Automation"
-  ],
-
-  currentFocus:
-    "Building AI-powered SaaS systems & automation platforms"
-};
-```
 
 ---
 
@@ -307,32 +271,29 @@ const engineer = {
 <div align="center">
 
 <a href="mailto:ksapan73@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ksapan">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sapankumar55/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://sapan-portfolio-gfvx-468.velyf-sapans-projects-1fd4a6d7.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2&section=header" width="80%" />
+---
 
-<br/>
+<div align="center">
 
-### ⚡ Building Intelligent Systems For The Future ⚡
+## 🚀 Building Scalable Software Powered By AI & Automation
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,25:1E1B4B,50:7C3AED,75:EC4899,100:111827&height=140&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,25:111827,50:6D28D9,75:A855F7,100:EC4899"/>
 
 </div>
