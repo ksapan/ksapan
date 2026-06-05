@@ -213,12 +213,7 @@ style="border-radius:16px;" />
 <br/>
 <br/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=Ksapan&theme=tokyonight&hide_border=true&border_radius=18" />
-
-<br/>
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksapan&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&row=1&column=7" />
 
 </div>
 
