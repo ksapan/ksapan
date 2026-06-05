@@ -50,7 +50,7 @@ capabilities:
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px;" />
 
 </td>
 </tr>
@@ -145,8 +145,13 @@ capabilities:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="80%" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
 
 </div>
 
