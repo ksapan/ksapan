@@ -202,16 +202,20 @@ style="border-radius:16px;" />
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+| Metric | Value |
+|---------|---------|
+| 🚀 Repositories | 43+ |
+| 💻 Focus | Full Stack Development |
+| 🤖 AI Engineering | OpenAI • RAG • MCP |
+| ☁️ Cloud | AWS • Docker |
+| 🔥 Backend | Node.js • Express |
+| 🧠 Current Mission | Building AI SaaS Platforms |
+
+</div>
 
 ---
 
