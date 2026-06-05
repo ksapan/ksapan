@@ -157,7 +157,7 @@ capabilities:
 
 ---
 
-# 🏆 Architecture Philosophy
+# 🏆 System Terminal & Philosophy
 
 <div align="center">
 
@@ -167,17 +167,30 @@ capabilities:
 
 </div>
 
+```bash
+Ksapan@QuantumCluster:~$ neofetch --agent
+```
+
+```text
+               .---.           OPERATOR: Sapan Kumar
+              /     \          ROLE: Full Stack & AI Automation Engineer
+              \  O  /          KERNEL: LangChain / Node.js Engine
+        _..__  `---'           UPTIME: 24/7 Autopilot
+      .'     `-.               ENV: AWS / Docker / Coolify / Nginx
+     /          \              AI_BRAIN: OpenAI GPT-4o & Gemini 1.5 Pro
+    |   Ksapan   |             VECTORS: Pinecone DB / RAG Pipelines
+    |            |             FOCUS: Building Scalable AI-SaaS Platforms
+     \          /              
+      `._    _.'               LANGUAGES: JS, TS, Python, PHP, Bash
+         `---'                 DATABASES: MongoDB, PostgreSQL, Redis, MySQL
+```
+
 ```javascript
-const sapanKumar = {
-  executionSpace: ["JavaScript", "TypeScript", "Python", "Bash"],
-  systemDesign: {
-    frontend: ["Next.js", "React.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs", "Microservices"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
-    devops: ["Docker", "AWS", "Nginx", "Coolify CI/CD"],
-    aiAutomation: ["LangChain", "OpenAI Assistants", "RAG Pipeline", "Vector DBs"]
-  },
-  currentFocus: "Architecting high-scale autonomous AI agent infrastructures."
+// Active system execution block
+const currentTask = {
+  frameworks: ["Next.js", "React.js", "Express.js", "FastAPI"],
+  workflows: ["LangChain Multi-Agent Swarms", "n8n Automation pipelines"],
+  status: "EXECUTING_AUTOMATION_QUEUES..."
 };
 ```
 
@@ -215,3 +228,4 @@ const sapanKumar = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,30:1E1B4B,65:4F46E5,85:06B6D4,100:0B0F19&height=140&section=footer" width="100%" />
 
 </div>
+
