@@ -204,18 +204,14 @@ style="border-radius:16px;" />
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&row=1&column=7" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
